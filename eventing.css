@@ -1,0 +1,31 @@
+body{
+	background: #f5d9d5;
+	font-family: 'Nunito Sans', sans-serif;
+}
+#mainnav .navbar-brand{
+	color:#EA1C2C;
+	font-size: 1.5rem;
+}
+.navbar {
+    background-color:#f5d9d5;
+}
+
+#mainnav{
+	font-size:1.2rem;
+	font-weight: 100;
+}
+
+
+#mainnav .nav-link {
+	color:white;
+}
+#mainnav .nav-link:hover {
+	color:#EA1C2C;
+
+}
+
+#header{
+	background: url(sugar.jpg) no-repeat center center;
+	background-size: cover;
+height: 100%;
+}
